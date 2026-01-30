@@ -3,7 +3,7 @@ page_title                                : Ri - Habit Tracker                  
 
 # App Info
 ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_country                           : pl                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -12,8 +12,8 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Ri                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free with subscription                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Track your habits with beautiful streaks, reminders, and insights.
+app_price                                 : Core features are free. Premium features available with optional subscription.   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Your all-in-one life management app. Track goals, habits, fitness, budget, meals, and more. Become the hero of your own story.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
