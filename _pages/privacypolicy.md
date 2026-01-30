@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 # Privacy Policy for Ri
 
 **Last Updated: January 29, 2026**
