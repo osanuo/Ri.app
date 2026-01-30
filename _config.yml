@@ -38,17 +38,33 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Track Daily Habits
-    description                           : Build consistency with easy daily check-ins
-    fontawesome_icon_name                 : check
+  - title                                 : Track Your Goals
+    description                           : Set ambitious goals with progress tracking, priorities, and deadlines
+    fontawesome_icon_name                 : bullseye
     
-  - title                                 : Visual Streaks
-    description                           : Watch your progress grow with beautiful streak tracking
+  - title                                 : Build Better Habits
+    description                           : Daily check-ins with beautiful streak visualization
     fontawesome_icon_name                 : fire
 
-  - title                                 : Smart Reminders
-    description                           : Never miss a habit with customizable notifications
-    fontawesome_icon_name                 : bell
+  - title                                 : Manage Your Tasks
+    description                           : Powerful to-do lists with priority management
+    fontawesome_icon_name                 : check-circle
+
+  - title                                 : Master Your Budget
+    description                           : Track income, expenses, subscriptions, and savings
+    fontawesome_icon_name                 : wallet
+    
+  - title                                 : Plan Your Meals
+    description                           : Weekly meal planning, recipe storage, and shopping lists
+    fontawesome_icon_name                 : utensils
+
+  - title                                 : Track Your Fitness
+    description                           : Log workouts and sports with streak tracking
+    fontawesome_icon_name                 : dumbbell
+    
+  - title                                 : Journal Your Journey
+    description                           : Quick daily reflections and personal growth tracking
+    fontawesome_icon_name                 : book
 
   - title                                 : Privacy First
     description                           : Your data stays on your device, always
