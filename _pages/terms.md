@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms of Service
+include_in_header: false
+---
+
 # Terms of Service for Ri
 
 **Last Updated: January 29, 2026**
