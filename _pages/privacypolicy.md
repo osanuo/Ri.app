@@ -69,7 +69,7 @@ All your data is stored locally on your device using:
 - **Encryption**: Your data is protected by iOS's built-in encryption when your device is locked
 - **No Cloud Servers**: We do not maintain any servers that store your personal data
 
-### iCloud Sync (Optional)
+### iCloud Sync (future feature)
 
 If you choose to enable iCloud sync:
 
@@ -156,7 +156,7 @@ Website: https://uodo.gov.pl
 
 For GDPR-related inquiries or to exercise your rights, contact us at:
 
-**Email**: osanuo@example.com  
+**Email**: osanuo.studio@gmail.com  
 **Response Time**: Within 30 days
 
 ## Data Retention
@@ -235,7 +235,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 **Developer**: Dawid (Osanuo)  
 **Location**: Warsaw, Poland  
-**Email**: osanuo@example.com  
+**Email**: osanuo.studio@gmail.com  
 **GitHub**: https://github.com/osanuo  
 **Website**: https://osanuo.github.io/Ri.app/
 
