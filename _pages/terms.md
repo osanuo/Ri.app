@@ -511,7 +511,7 @@ You acknowledge that:
 - Apple is not liable for any claims relating to the App
 - Apple is a third-party beneficiary of these Terms and may enforce them
 
-### iCloud
+### iCloud (future feature)
 
 If you use iCloud sync, your use of iCloud is subject to Apple's iCloud Terms and Conditions.
 
@@ -528,7 +528,7 @@ If you have questions, concerns, or complaints about these Terms, please contact
 
 **Developer**: Dawid (Osanuo)  
 **Location**: Warsaw, Poland  
-**Email**: osanuo@example.com  
+**Email**: osanuo.studio@gmail.com
 **GitHub**: https://github.com/osanuo  
 **Website**: https://osanuo.github.io/Ri.app/
 
